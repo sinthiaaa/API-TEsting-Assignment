@@ -1,0 +1,34 @@
+{
+	"id": "4e857663-eafa-43bc-a1fe-773ef9bb270e",
+	"name": "Teacher_API_ENV",
+	"values": [
+		{
+			"key": "base_url",
+			"value": "http://54.255.195.111:5171",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "token",
+			"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImFkbWluIiwiaWF0IjoxNzczMTY5MTM4LCJleHAiOjE3NzMyNTU1Mzh9.UOONXik0TSaA4nv5-Ar78L5sPHYKvybZkpXSnp_6o70",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "teacherId",
+			"value": 566,
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "invalidTeacherId",
+			"value": 9289926,
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"color": null,
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2026-03-10T19:07:59.345Z",
+	"_postman_exported_using": "Postman/11.86.5"
+}
