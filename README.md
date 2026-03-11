@@ -32,9 +32,9 @@ This assignment covers:
 - ✅ **DELETE** `/api/teacher/{teacherId}` (Verify deletion)  
 
 ### 3️⃣ Negative Tests
-- ❌ Login with wrong credentials → `401`  
+- ❌ Login with wrong credentials → `400`  
 - ❌ Access teachers without token → `401`  
-- ❌ Get teacher with invalid ID → `404`  
+- ❌ Get teacher with invalid ID → `401`  
 - ❌ Create teacher with missing required field → `400`  
 
 All tests include **status validation** and **response message checks**.  
