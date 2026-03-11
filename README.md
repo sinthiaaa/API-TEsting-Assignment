@@ -63,9 +63,18 @@ npm install newman newman-reporter-htmlextra --legacy-peer-deps
 
 ```
 
+## 📌 Project Links
+
+- 📮 **Postman Collection:** [View in Postman](https://api.postman.com/collections/52004891-2a8e901b-03b7-4447-b3b6-4443243d1be5?access_key=PMAT-01KKCGWWQBJ1WPYRRG11RANPHM)
+- 📁 **Drive Folder (Screenshots + Report + Video):** [Open Drive](https://drive.google.com/drive/folders/1D5U1wMR6SlrKE6RyETrwLv2iPxQTUkzO?usp=drive_link)
+
+
+
+
+
 ## 📌 Document 
 
-- 📮 **Postman Collection:** [View complete documentation in Postman]((https://documenter.getpostman.com/view/52004891/2sBXierYyN))
+- 📮 **Postman Collection:** [View complete documentation in Postman](https://documenter.getpostman.com/view/52004891/2sBXierYyN)
 
 
 ## Newman Reposrt
